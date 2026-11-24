@@ -98,7 +98,7 @@ nav {
   min-height: 380px;
   border-radius: 24px;
   margin-bottom: 16px;
-  background-image: url(images/hero-latte.png);
+  background-image: url(/images/hero-latte.png);
   background-size: cover;
   background-position: center;
 }
